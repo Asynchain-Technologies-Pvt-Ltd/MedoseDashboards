@@ -1,0 +1,461 @@
+{
+  "common": {
+    "dashboard": "DE!!!Dashboard",
+    "apps": "DE!!!Apps",
+    "auth": "DE!!!Auth",
+    "forms": "DE!!!Forms",
+    "advancedForms": "DE!!!Advanced forms",
+    "dataTables": "DE!!!Data tables",
+    "charts": "DE!!!Charts",
+    "maps": "DE!!!Maps",
+    "pages": "DE!!!Pages",
+    "feed": "DE!!!Feed",
+    "kanban": "DE!!!Kanban",
+    "calendar": "DE!!!Calendar",
+    "authPages": "DE!!!Auth Pages",
+    "lock": "DE!!!Lock",
+    "forgotPass": "DE!!!Forgot Password",
+    "securityCode": "DE!!!Security Code",
+    "forgotPasswordPage": "DE!!!Forgot password page",
+    "verifyEmailPage": "DE!!!Verify email page",
+    "twoFactorAuthPage": "DE!!!Two-Factor auth page",
+    "newPassword": "DE!!!New password",
+    "inputCode": "DE!!!Input 6 digit code",
+    "payment": "DE!!!Payment",
+    "login": "DE!!!Log In",
+    "signUp": "DE!!!Sign Up",
+    "profilePage": "DE!!!Profile Page",
+    "serverError": "DE!!!Server Error",
+    "clientError": "DE!!!Client Error",
+    "maintenance": "DE!!!Maintenance",
+    "doctor": "DE!!!Doctor",
+    "specifity": "DE!!!Specifity",
+    "surgeon": "DE!!!Surgeon",
+    "dermatologist": "DE!!!Dermatologist",
+    "oncologist": "DE!!!Oncologist",
+    "cardiologist": "DE!!!Cardiologist",
+    "therapist": "DE!!!Therapist",
+    "ophthalmologist": "DE!!!Ophtalmologist",
+    "neurologist": "DE!!!Neurologist",
+    "cancel": "DE!!!Cancel",
+    "ok": "DE!!!Ok",
+    "deleteQuestion": "DE!!!Are you sure you want to delete?",
+    "save": "DE!!!Save",
+    "edit": "DE!!!Edit",
+    "saved": "DE!!!Your changes have been successfully saved!",
+    "confirm": "DE!!!Confirm",
+    "oops": "DE!!!Oops!",
+    "kg": "DE!!!kg",
+    "loading": "DE!!!Loading...",
+    "moreDetails": "DE!!!More details",
+    "keywords": "DE!!!Any keywords?",
+    "success": "DE!!!Success",
+    "email": "DE!!!Email",
+    "emailError": "DE!!!Please input users name or delete this field",
+    "password": "DE!!!Password",
+    "confirmPassword": "DE!!!Confirm Password",
+    "confirmPasswordError": "DE!!!The two passwords that you entered do not match!",
+    "firstName": "DE!!!First Name",
+    "lastName": "DE!!!Last Name",
+    "requiredField": "DE!!!This field is required!",
+    "back": "DE!!!Back",
+    "copy": "DE!!!Copy",
+    "openInNewTab": "DE!!!Open in new tab",
+    "copied": "DE!!!Copied to clipboard",
+    "formError": "DE!!!An error was occured",
+    "info": "DE!!!Information",
+    "name": "DE!!!Name",
+    "notFound": "DE!!!Sorry, there’s nothing found",
+    "today": "DE!!!Today",
+    "dateTime": "DE!!!Date & Time",
+    "address": "DE!!!Address",
+    "phone": "DE!!!Phone",
+    "day": "DE!!!day",
+    "pwa": "DE!!!Install PWA"
+  },
+  "header": {
+    "search": "Search",
+    "logout": "DE!!!Logout",
+    "changeLanguage": "DE!!!Change language",
+    "changeTheme": "DE!!!Change theme",
+    "nightMode": {
+      "title": "DE!!!Nightmode",
+      "from": "DE!!!From",
+      "to": "DE!!!To"
+    },
+    "lightTheme": "DE!!!Light",
+    "darkTheme": "DE!!!Dark",
+    "notifications": {
+      "loginAttempt": "DE!!!There was an attempt to log in to your account from another device",
+      "successPayment": "DE!!!Your payment was successfully made",
+      "serverError": "DE!!!The server is not responding, try again later",
+      "mention": "DE!!!mentioned you in <0>{{place}}</0>",
+      "viewAll": "DE!!!View all",
+      "readAll": "DE!!!Mark all as read",
+      "noNotifications": "DE!!!No notifications yet"
+    }
+  },
+  "dashboard": {
+    "protein": "DE!!!Protein",
+    "fat": "DE!!!Fat",
+    "bones": "DE!!!Bones",
+    "water": "DE!!!Water",
+    "map": {
+      "title": "DE!!!Map",
+      "polyclinic": "DE!!!Polyclinic"
+    },
+    "latestScreenings": {
+      "title": "DE!!!Latest screenings",
+      "friends": "DE!!!Friends",
+      "statistics": "DE!!!Statistics",
+      "month": "DE!!!Month"
+    },
+    "bloodScreening": {
+      "title": "DE!!!Blood screening",
+      "test": "DE!!!Test",
+      "result": "DE!!!Result",
+      "units": "DE!!!Units",
+      "flag": "DE!!!Flag",
+      "norm": "DE!!!NORM",
+      "low": "DE!!!LOW",
+      "high": "DE!!!HIGH"
+    },
+    "treatmentPlan": {
+      "title": "DE!!!Treatment plan",
+      "noVisits": "DE!!!No visits for that day"
+    },
+    "activity": {
+      "title": "DE!!!Activity",
+      "kcalBurned": "DE!!!kcal burned on"
+    },
+    "covid": {
+      "title": "DE!!!COVID-19",
+      "casesPerDay": "DE!!!cases/day in"
+    },
+    "health": {
+      "title": "DE!!!Health",
+      "lifestyle": {
+        "title": "DE!!!Lifestyle",
+        "description": "DE!!!According to WHO, 60% of related factors to individual health and quality of life are correlated to lifestyle."
+      },
+      "ecology": {
+        "title": "DE!!!Ecology",
+        "description": "DE!!!The environment is a major determinant of health, estimated to account for almost 20% of all deaths in the WHO European Region."
+      },
+      "genetics": {
+        "title": "DE!!!Genetics",
+        "description": "DE!!!Multivariate studies show that genetic factors enhancing SWB are partly overlapping with those protecting against depression and other mental health problems."
+      },
+      "medicine": {
+        "title": "DE!!!Medicine",
+        "description": "DE!!!Relationship between health insurance (or lack of insurance), use of medical care and health outcomes for specific conditions and types of services, and with overall health status and mortality."
+      }
+    },
+    "favoriteDoctors": {
+      "title": "DE!!!Favorite doctors",
+      "lastVisit": "DE!!!Last visit"
+    },
+    "patientResults": {
+      "title": "DE!!!Patient timeline",
+      "patientDischarge": {
+        "title": "DE!!!Patient's discharge",
+        "description": "DE!!!A hospital will discharge you when you no longer need to receive inpatient care and can go home. Or, a hospital will discharge you to send you to another type of facility."
+      },
+      "treatmentStarts": {
+        "title": "DE!!!Treatment starts",
+        "description": "DE!!!Part of the evaluation and treatment of any patient, regardless of condition or diagnosis, is an appropriate framework or pathway for diagnosis, treatment, and, if necessary, referral for specialty care."
+      },
+      "patientAdmission": {
+        "title": "DE!!!Patient admission",
+        "description": "DE!!!Admission of a patient means allowing and facilitating a patient to stay in the hospital unit or ward for observation, investigation, and treatment of the disease he or she is suffering from."
+      }
+    },
+    "news": "DE!!!News"
+  },
+  "error404": {
+    "notFound": "DE!!!Sorry, page not found!",
+    "comeBack": "DE!!!Come back"
+  },
+  "serverError": {
+    "main": "DE!!!Internal server error",
+    "tryAgain": "DE!!!Try again"
+  },
+  "newsFeed": {
+    "filter": "DE!!!Filter",
+    "authorSearch": "DE!!!Search by author",
+    "titleSearch": "DE!!!Search by title",
+    "apply": "DE!!!Apply",
+    "reset": "DE!!!Reset filter",
+    "feed": "DE!!!Feed",
+    "tag": "DE!!!Tag",
+    "from": "DE!!!From",
+    "to": "DE!!!To"
+  },
+  "login": {
+    "title": "DE!!!Login",
+    "rememberMe": "DE!!!Remember me",
+    "forgotPassword": "DE!!!Forgot password?",
+    "noAccount": "DE!!!Don’t have an account? Create one",
+    "signupLink": "DE!!!here",
+    "loginInfo": "DE!!!Enter your email address and password to access admin panel",
+    "googleLink": "DE!!!Continue with Google",
+    "facebookLink": "DE!!!Continue with Facebook"
+  },
+  "signup": {
+    "loginLink": "DE!!!here",
+    "agree": "DE!!!I agree to the",
+    "termOfUse": "DE!!!Terms of Use",
+    "and": "DE!!!and",
+    "privacyOPolicy": "DE!!!Privacy Policy",
+    "alreadyHaveAccount": "DE!!!Already have an account? Log in",
+    "googleLink": "DE!!!Sign up with Google",
+    "facebookLink": "DE!!!Sign up with Facebook"
+  },
+  "forgotPassword": {
+    "title": "DE!!!Reset password",
+    "description": "DE!!!Enter your email address and we’ll send an verification code to reset your password",
+    "sendInstructions": "DE!!!Send instructions",
+    "successReset": "DE!!!We've sent to your email address the reset link"
+  },
+  "verifyEmail": {
+    "title": "DE!!!Check your mail",
+    "description": "DE!!!We have sent a verification code to your email",
+    "noCode": "DE!!!Didn’t get a verification code?"
+  },
+  "twoFactorAuth": {
+    "title": "DE!!!Two-factor authentication",
+    "description": "DE!!!We have sent a verification code to your email",
+    "enterCode": "DE!!!Enter the code to continue",
+    "noCode": "DE!!!Didn’t get a verification code?"
+  },
+  "newPassword": {
+    "title": "DE!!!Create new password",
+    "description": "DE!!!Your new password must be different from previous password",
+    "resetPassword": "DE!!!Reset password",
+    "successReset": "DE!!!New password set"
+  },
+  "profile": {
+    "title": "DE!!!Profile",
+    "fullness": "DE!!!fullness of your profile",
+    "nav": {
+      "personalInfo": {
+        "title": "DE!!!Personal info",
+        "firstName": "DE!!!First Name",
+        "lastName": "DE!!!Last Name",
+        "nickname": "DE!!!Nickname",
+        "sex": "DE!!!Sex",
+        "male": "DE!!!Male",
+        "female": "DE!!!Female",
+        "birthday": "DE!!!Birthday",
+        "language": "DE!!!Language",
+        "contactInfo": "DE!!!Contact Info",
+        "phone": "DE!!!Phone",
+        "wrongNumber": "DE!!!Wrong number",
+        "email": "DE!!!Email",
+        "notValidEmail": "DE!!!Please input a valid email address!",
+        "verified": "DE!!!Verified",
+        "notVerified": "DE!!!Not verified",
+        "address": "DE!!!Address",
+        "country": "DE!!!Country",
+        "city": "DE!!!City",
+        "zipcode": "DE!!!Zipcode",
+        "address1": "DE!!!Address 1",
+        "address2": "DE!!!Address 2",
+        "otherInfo": "DE!!!Other info",
+        "website": "DE!!!Website",
+        "notValidWebsite": "DE!!!Please input a valid URL!",
+        "socialLinks": "DE!!!Social links"
+      },
+      "securitySettings": {
+        "title": "DE!!!Security settings",
+        "changePassword": "DE!!!Change Password",
+        "currentPassword": "DE!!!Current Password",
+        "newPassword": "DE!!!New Password",
+        "samePassword": "DE!!!Your new password can't be same as previous password",
+        "confirmPassword": "DE!!!Confirm Password",
+        "requiredPassword": "DE!!!Please input your password!",
+        "dontMatchPassword": "DE!!!The two passwords that you entered do not match",
+        "notValidPassword": "DE!!!Your password should be minimum eight characters and contain at least one uppercase letter, one lowercase letter and one number",
+        "twoFactorAuth": "DE!!!Two–factor authentication",
+        "verify": "DE!!!Verify"
+      },
+      "notifications": {
+        "title": "DE!!!Notifications",
+        "settings": "DE!!!Notifications settings",
+        "description": "DE!!!Choose for which activities you want to get an email or push notification.",
+        "push": "DE!!!Push",
+        "SMS": "DE!!!SMS",
+        "activities": "DE!!!Activities",
+        "directMessages": "DE!!!Direct messages",
+        "mentions": "DE!!!Mentions",
+        "reminders": "DE!!!Reminders",
+        "allNews": "DE!!!All news",
+        "importantNews": "DE!!!Important news and updates",
+        "actionRequired": "DE!!!Action required"
+      },
+      "payments": {
+        "title": "DE!!!Payments",
+        "paymentMethod": "DE!!!Payment Method",
+        "noHistory": "DE!!!There is no payment history at the moment",
+        "cardNumber": "DE!!!Card Number",
+        "yourCardNumber": "DE!!!Your card number",
+        "cardholderName": "DE!!!Cardholder Name",
+        "yourName": "DE!!!Your name",
+        "expDate": "DE!!!Exp. Date",
+        "CVV": "DE!!!CVV",
+        "sameCard": "DE!!!You can't add the same card!",
+        "addNewCard": "DE!!!Add new card",
+        "cardTheme": "DE!!!Card Theme",
+        "paymentHistory": "DE!!!Payment history",
+        "recipient": "DE!!!Recipient",
+        "date": "DE!!!Date",
+        "status": {
+          "title": "DE!!!Status",
+          "paid": "DE!!!Paid",
+          "scheduled": "DE!!!Scheduled",
+          "pending": "DE!!!Pending",
+          "failed": "DE!!!Failed"
+        },
+        "totalAmount": "DE!!!Total Amount",
+        "details": "DE!!!Details"
+      }
+    }
+  },
+  "kanban": {
+    "title": "DE!!!Title",
+    "label": "DE!!!Label",
+    "description": "DE!!!Description",
+    "tags": "DE!!!Tags",
+    "addTags": "DE!!!Add tags",
+    "addParticipant": "DE!!!Set assignee",
+    "sameTag": "DE!!!You can't add the same tag!",
+    "createColumn": "DE!!!Create new column"
+  },
+  "charts": {
+    "barLabel": "DE!!!Bar Animation Delay",
+    "gradientLabel": "DE!!!Gradient Stacked Area",
+    "lineRace": "DE!!!Line Race",
+    "mon": "DE!!!Mon",
+    "tue": "DE!!!Tue",
+    "wed": "DE!!!Wed",
+    "thu": "DE!!!Thu",
+    "fri": "DE!!!Fri",
+    "sat": "DE!!!Sat",
+    "sun": "DE!!!Sun",
+    "search": "DE!!!Search Engine",
+    "direct": "DE!!!Direct",
+    "email": "DE!!!Email",
+    "union": "DE!!!Union Ads",
+    "video": "DE!!!Video Ads",
+    "coal": "DE!!!Coal",
+    "hydro": "DE!!!Hydro",
+    "nuclear": "DE!!!Nuclear",
+    "gas": "DE!!!Gas",
+    "oil": "DE!!!Oil",
+    "pie": "DE!!!Pie",
+    "visitorsFrom": "DE!!!Visitors from",
+    "males": "DE!!!Males",
+    "females": "DE!!!Females",
+    "averageValue": "DE!!!Average Value",
+    "scatter": "DE!!!Scatter"
+  },
+  "tables": {
+    "tables": "DE!!!Tables",
+    "basicTable": "DE!!!Basic Table",
+    "treeTable": "DE!!!Tree Table",
+    "editableTable": "DE!!!Editable Table",
+    "name": "DE!!!Name",
+    "firstName": "DE!!!First Name",
+    "lastName": "DE!!!Last Name",
+    "age": "DE!!!Age",
+    "address": "DE!!!Address",
+    "tags": "DE!!!Tags",
+    "actions": "DE!!!Actions",
+    "invite": "DE!!!Invite",
+    "inviteMessage": "DE!!!{{name}} invited successfully",
+    "delete": "DE!!!Delete",
+    "cancelInfo": "DE!!!Sure to cancel?"
+  },
+  "forms": {
+    "dynamicForm": "DE!!!Dynamic form",
+    "controlForm": "DE!!!Control form",
+    "validationForm": "DE!!!Validation form",
+    "stepForm": "DE!!!Step form",
+    "dynamicFormLabels": {
+      "beijing": "DE!!!Beijing",
+      "shanghai": "DE!!!Shanghai",
+      "tiananmen": "DE!!!Tiananmen",
+      "greatWall": "DE!!!Great Wall",
+      "orientalPearl": "DE!!!Oriental Pearl",
+      "theBund": "DE!!!The Bund",
+      "area": "DE!!!Area",
+      "sight": "DE!!!Sight",
+      "price": "DE!!!Price",
+      "addSights": "DE!!!Add sights"
+    },
+    "controlFormLabels": {
+      "name": "DE!!!Name",
+      "age": "DE!!!Age",
+      "groupName": "DE!!!Group Name",
+      "userList": "DE!!!User List",
+      "noUser": "DE!!!No user yet.",
+      "addUser": "DE!!!Add User",
+      "newUser": "DE!!!New User",
+      "submit": "DE!!!Submit"
+    },
+    "validationFormLabels": {
+      "select": "DE!!!Select",
+      "countryError": "DE!!!Please select your country!",
+      "selectCountry": "DE!!!Please select a country",
+      "china": "DE!!!China",
+      "usa": "DE!!!U.S.A",
+      "selectMultiple": "DE!!!Select [multiple]",
+      "colorError": "DE!!!Please select your favorite colors!",
+      "selectColor": "DE!!!Please select favorite colors",
+      "red": "DE!!!Red",
+      "green": "DE!!!Green",
+      "blue": "DE!!!Blue",
+      "inputNumber": "DE!!!Input Number",
+      "machines": "DE!!!machines",
+      "switch": "DE!!!Switch",
+      "slider": "DE!!!Slider",
+      "radioGroup": "DE!!!Radio Group",
+      "radioButton": "DE!!!Radio Button",
+      "item": "DE!!!Item",
+      "itemError": "DE!!!Please pick an item!",
+      "checkboxGroup": "DE!!!Checkbox Group",
+      "rate": "DE!!!Rate",
+      "upload": "DE!!!Upload",
+      "clickToUpload": "DE!!!Click to upload",
+      "dragger": "DE!!!DE!!!Dragger",
+      "clickToDrag": "Click or drag file to this area to upload",
+      "supportSingle": "DE!!!Support for a single or bulk upload.",
+      "submit": "DE!!!Submit"
+    },
+    "stepFormLabels": {
+      "login": "DE!!!Email/Login",
+      "password": "DE!!!Password",
+      "confirmPassword": "DE!!!Confirm Password",
+      "salutation": "DE!!!Salutation",
+      "gender": "DE!!!Gender",
+      "firstName": "DE!!!First Name",
+      "lastName": "DE!!!Last Name",
+      "birthday": "DE!!!Birthday",
+      "phone": "DE!!!Phone",
+      "email": "DE!!!Email",
+      "address1": "DE!!!Address 1",
+      "address2": "DE!!!Address 2",
+      "zipCode": "DE!!!Zip code",
+      "city": "DE!!!City",
+      "country": "DE!!!Country",
+      "info": "DE!!!Info",
+      "location": "DE!!!Location",
+      "confirmDetails": "DE!!!Confirm Details",
+      "next": "DE!!!Next",
+      "done": "DE!!!Done",
+      "previous": "DE!!!Previous",
+      "mr": "DE!!!Mr",
+      "mrs": "DE!!!Mrs"
+    }
+  }
+}
